@@ -10,7 +10,7 @@
 hi, i'm [Maria Roberta](https://mariarobertap.me/), a passionate self-taught back-end developer. my passion for software lies with dreaming up ideas and making them come true with elegant code. I really care with architecture and code quality of the things I build.
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION-->
 
 **languages and tools:**  
 
