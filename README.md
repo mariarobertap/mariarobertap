@@ -1,16 +1,16 @@
-### Hi there 👋
+### hey there 
+</a>
+<a href="https://www.linkedin.com/in/maria-roberta-487984209/?locale=en_US">
+  <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**mariarobertap/mariarobertap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br /><br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hi, i'm [Maria Roberta](https://mariarobertap.me/), a passionate self-taught back-end developer. my passion for software lies with dreaming up ideas and making them come true with elegant code. I really care with architecture and code quality of the things I build.
+
+**languages and tools:**  
+
+<code><img height="30" src="https://user-images.githubusercontent.com/75685022/185997093-0dc4ad76-ded3-42b7-974f-9f5cd38e5af2.png"></code>
+
+
