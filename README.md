@@ -10,6 +10,17 @@
 hi, i'm [Maria Roberta](https://mariarobertap.me/), a passionate self-taught back-end developer. my passion for software lies with dreaming up ideas and making them come true with elegant code. I really care with architecture and code quality of the things I build.
 
 <!--START_SECTION:waka-->
+
+```text
+From: 16 August 2022 - To: 23 August 2022
+
+JavaScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.46 %
+TypeScript                   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.37 %
+Git Config                   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.02 %
+JSON                         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 %
+Other                        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
 **languages and tools:**  
