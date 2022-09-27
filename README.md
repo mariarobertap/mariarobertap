@@ -7,10 +7,9 @@ I'm a passionate self-taught developer. my passion for software lies with dreami
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 6 mins     █████████████████████▒░░░   84.68 %
-Go           11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   2 hrs 23 mins   ████████████████████▒░░░░   81.37 %
+Go           19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->
