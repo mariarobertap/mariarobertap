@@ -7,12 +7,12 @@ I'm a passionate self-taught developer. my passion for software lies with dreami
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 52 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
-JavaScript   2 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-Go           2 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Text         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       3 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.42 %
+Go           2 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+JavaScript   2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+Text         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
