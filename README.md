@@ -7,7 +7,7 @@ I'm a passionate self-taught developer. my passion for software lies with dreami
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL   50 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
