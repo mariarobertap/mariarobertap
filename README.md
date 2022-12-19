@@ -7,8 +7,7 @@ I'm a passionate self-taught developer. my passion for software lies with dreami
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          ████████████████████▒░░░░   81.40 %
-JavaScript   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
