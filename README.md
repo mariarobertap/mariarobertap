@@ -1,7 +1,7 @@
 ### Hey there!
 <br />
 
-I'm a passionate self-taught developer. my passion for software lies with dreaming up ideas and making them come true with elegant code. I really care with architecture and code quality of the things I build.
+I'm a passionate developer. my passion for software lies with dreaming up ideas and making them come true with elegant code. I really care with architecture and code quality of the things I build.
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
