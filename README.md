@@ -7,9 +7,9 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.62 %
-Go           6 hrs 26 mins   ███████████░░░░░░░░░░░░░░   44.04 %
-Other        55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+JavaScript   7 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.67 %
+Go           6 hrs 8 mins    ██████████▓░░░░░░░░░░░░░░   42.85 %
+Other        55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
