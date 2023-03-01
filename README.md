@@ -7,12 +7,12 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 1 min     ████████████████████▒░░░░   81.54 %
-SCSS         1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-Go           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   8 hrs 4 mins    ████████████████████▓░░░░   82.36 %
+SCSS         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Go           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
