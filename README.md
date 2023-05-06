@@ -10,6 +10,8 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 JavaScript   2 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.16 %
 Go           1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   27.97 %
 Other        25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+SCSS         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
