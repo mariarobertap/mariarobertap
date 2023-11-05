@@ -21,8 +21,3 @@ Go   1 hr 8 mins     ███████████████████�
 
 
 
-</a>
-<a href="https://www.linkedin.com/in/maria-roberta-487984209/?locale=en_US">
-   - Feel free to contact me
-  <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
