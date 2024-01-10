@@ -7,9 +7,10 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```txt
-XML     2 mins          ████████████████████▒░░░░   81.95 %
-Go      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+XML     2 mins          ███████████████████▒░░░░░   76.90 %
+Go      0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+SQL     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
