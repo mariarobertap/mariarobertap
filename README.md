@@ -7,9 +7,8 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   9 mins          ██████████████████████░░░   87.75 %
-Go         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown   9 mins          ██████████████████████▒░░   89.42 %
+Go         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
 ```
 
 <!--END_SECTION:waka-->
