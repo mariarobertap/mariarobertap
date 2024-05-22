@@ -7,9 +7,7 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```txt
-Go       4 mins          █████████▓░░░░░░░░░░░░░░░   38.40 %
-YAML     4 mins          ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Docker   3 mins          ███████░░░░░░░░░░░░░░░░░░   28.64 %
+Go   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
