@@ -7,7 +7,10 @@ I'm a passionate developer. my passion for software lies with dreaming up ideas 
 <!--START_SECTION:waka-->
 
 ```txt
-CocoaPods   2 mins          █████████████████████████   100.00 %
+Bash        30 mins         ███████████████████████░░   92.57 %
+CocoaPods   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Ruby        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
